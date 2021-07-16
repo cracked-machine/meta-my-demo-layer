@@ -1,0 +1,2 @@
+1. Create a symlink to the root directory of your STM32CubeIDE project in this directory
+2. Add the path and dts name (without extension) to the CUBEMX_PROJECT and CUBEMX_DTB variables - respectively - in conf/machine/<layer>.conf file
