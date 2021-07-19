@@ -1,4 +1,4 @@
-### Summary
+#### Summary
 
 This is a Yocto layer for adding device tree files to the OpenSTLinux-5.10-dunfell-mp1-21-03-31 distribution build.
 
@@ -15,13 +15,13 @@ CUBEMX_PROJECT = "mx/mp157fab_custom/CA7/DeviceTree/mp157fab_custom"
   
 #### Example STM32CubeIDE projects
 
-##### STM32MP157F DK2:
+STM32MP157F DK2:
   
 - [STM32MP157F DK2](https://github.com/cracked-machine/fdk2_161)
   
   [Hardware design for the DK2 board](https://www.st.com/en/evaluation-tools/stm32mp157f-dk2.html)
 
-##### STM32MP157xAB custom:
+STM32MP157xAB custom:
   
 - [Custom STM32MP157FAB board](https://github.com/cracked-machine/mp157fab_custom)
 - [Custom STM32MP157DAB board](https://github.com/cracked-machine/mp157dab_custom)
