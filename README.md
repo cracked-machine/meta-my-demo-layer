@@ -15,7 +15,7 @@ CUBEMX_PROJECT = "mx/mp157fab_custom/CA7/DeviceTree/mp157fab_custom"
   
 #### Example STM32CubeIDE projects
 
-ST Devkit - STM32MP157F DK2:
+ST DevKit - STM32MP157F DK2:
   
 - [STM32MP157F DK2](https://github.com/cracked-machine/fdk2_161)
   
